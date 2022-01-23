@@ -1,0 +1,242 @@
+{ 
+  "1":{
+    "id":"0",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/300",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "2":{
+    "id":"1",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/301",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "3":{
+    "id":"2",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/302",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "4":{
+    "id":"3",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/303",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "5":{
+    "id":"4",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/304",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "6":{
+    "id":"5",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/305",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "7":{
+    "id":"6",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/306",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "8":{
+    "id":"7",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/307",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "9":{
+    "id":"8",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/308",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "10":{
+    "id":"9",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/309",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "11":{
+    "id":"10",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/310",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "12":{
+    "id":"11",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/311",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "13":{
+    "id":"12",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/312",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "14":{
+    "id":"13",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/313",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "15":{
+    "id":"14",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/314",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "16":{
+    "id":"15",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/315",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "17":{
+    "id":"16",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/316",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "18":{
+    "id":"17",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/317",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "19":{
+    "id":"18",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/318",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "20":{
+    "id":"19",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/319",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "21":{
+    "id":"20",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/320",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "22":{
+    "id":"21",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/321",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "23":{
+    "id":"22",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/322",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  },
+  "24":{
+    "id":"23",
+    "title": "User Experience Research and Design Specialization",
+    "link": "/",
+    "rating": 4.7,
+    "price": 20.99,
+    "image":"https://picsum.photos/323",
+    "teacherName": "Azer Mammadli",
+    "teacherImage":"https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14="
+  }
+}

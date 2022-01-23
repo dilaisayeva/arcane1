@@ -1,0 +1,37 @@
+version: '3'
+services:  
+    postgres:
+        container_name: postgres_data4
+        image: postgres:9.6
+        ports: 
+            - 5432:5432
+        volumes:
+            - ../postgre_db/:/var/lib/postgresql/data
+        env_file: ./.env
+
+    web:
+        build: .
+        restart: "always"
+        ports:
+            - "8000:8000"
+        command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+        volumes:
+            - .:/code/
+            - ./static/:/code/static/
+            - ./media/:/code/media/
+        env_file: ./.env
+        depends_on:
+            - "postgres"
+    frontend:
+        build: ./reactapp
+        command: ["npm", "start"]
+        volumes:
+        - ./frontend:/app/frontend
+        - node-modules:/app/frontend/node_modules
+        ports:
+        - "80:3000"
+volumes:
+  node-modules:
+
+
+            

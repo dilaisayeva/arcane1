@@ -1,0 +1,15 @@
+{
+  "name": "Azer",
+  "surname": "Mammadli",
+  "fullName": "Azer Mammadli",
+  "email": "azer.mammadli@gmail.com",
+  "occupation": "UX Design",
+  "rating": 4.7,
+  "about": "I am Azer Mammadli, a Junior UI/UX Designer. I am at the starting of my career, my portfolio includes User Interface & Experience Design for Websites and Mobile Applications.",
+  "aboutExtended": "I am a UI/UX Designer with 4 years of background in web, mobile, and app design products. My BG consists of USA, Germany, Russia, Luxemburg, Estonia, and Azerbaijan companies and International UX Design certified on Digital product design, Web & Mobile UI/UX Design, and Psychology of UX Design.",
+  "image": "https://media.istockphoto.com/photos/abstract-holographic-3d-wavy-background-picture-id1248340759?k=20&m=1248340759&s=612x612&w=0&h=PTinqLmqoYBhGf-sSeB1bukwyze9HZkS4cki6B2px14=",
+  "certifications":[
+    {"img":"https://kernerresearch.com/wp-content/uploads/2021/04/Data-Protection-Officer-and-privacy-certification-1024x536-1.png", "name":"Mobile UX Design Certificate", "link":"https://www.interaction-design.org/..."},
+    {"img":"https://d1csarkz8obe9u.cloudfront.net/posterpreviews/employee-of-the-month-landscape-certificate-design-template-b1860eda7a0b6071220adc2109124b6f_screen.jpg?ts=1561440599", "name":"Dynamic UX: Design and Usability on Web and Mobile Certificate", "link":"https://www.interaction-design.org/gyun-..."}
+  ]
+}
